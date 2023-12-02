@@ -1,0 +1,6 @@
+flask
+functions-framework
+google-api-core
+google-cloud-translate
+gunicorn
+google-auth
